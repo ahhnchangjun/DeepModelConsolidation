@@ -1,0 +1,23 @@
+Configuration 50/50:
+classes_batch_size = 5
+lr = 0.1
+lr_cons = 0.01
+F = classes_batch_size * 2
+
+Configuration 20/20:
+classes_batch_size = 20
+lr = 0.1
+lr_cons = 0.01
+F = classes_batch_size
+
+Configuration 10/10:
+classes_batch_size = 10
+lr = 0.01
+lr_cons = 0.01
+F = classes_batch_size
+
+Configuration 5/5:
+classes_batch_size = 5
+lr = 0.01
+lr_cons = 0.01
+F = classes_batch_size * 2
